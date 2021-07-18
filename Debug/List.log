@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\HitenG2\source\repos\List\Source.cpp(48,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\HitenG2\source\repos\List\List.h(48): warning C4715: 'List<int>::GetValue': not all control paths return a value
+C:\Users\HitenG2\source\repos\List\List.h(42): warning C4715: 'List<int>::GetNext': not all control paths return a value
+C:\Users\HitenG2\source\repos\List\List.h(44): warning C4715: 'List<int>::GetPrev': not all control paths return a value
+C:\Users\HitenG2\source\repos\List\List.h(272): warning C4715: 'List<int>::top': not all control paths return a value
+C:\Users\HitenG2\source\repos\List\List.h(278): warning C4715: 'List<int>::down': not all control paths return a value
+  List.vcxproj -> C:\Users\HitenG2\source\repos\List\Debug\List.exe
